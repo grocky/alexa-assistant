@@ -14,9 +14,7 @@
     "stream": "0.0.2",
     "wait-one-moment": "0.0.2"
   },
-  "devDependencies": {
-    "serverless": "1.24.1"
-  },
+  "devDependencies": { },
   "scripts": {
     "deploy": "npm run serverless deploy",
     "sls": "f() { serverless ${@}; }; f",
